@@ -3,7 +3,8 @@ import carticon from './shopping-cart.png';
 import menu from './menu-bar.png';
 import downmenu from './down.png';
 import deleteicon from './delete.png';
-
+import profile from './profile.png'
+import search from './searchicon.png'
 import blackshirt1 from './blackshirt1.jpg';
 import blackshirt2 from './blackshirt2.jpg';
 import blackshirt3 from './blackshirt3.jpg';
@@ -28,6 +29,8 @@ import logo from './logo.jpg';
 // Create an object named `assets` containing all images
 export const assets2 = {
   logo,
+  profile,
+  search,
   deleteicon,
   carticon,
   menu,
